@@ -84,6 +84,7 @@
     margin: .5rem;
     padding: 1rem;
     border-radius: 1rem;
+    background-color: #49d0b0;
 }
 
 .pokemon .number {
@@ -97,6 +98,7 @@
     text-transform: capitalize;
     color: #fff;
     margin-bottom: .25rem;
+    text-transform: capitalize;
 }
 
 .pokemon .detail {
